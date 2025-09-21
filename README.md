@@ -39,5 +39,5 @@ A passionate **Frontend Developer** from Bangladesh 🚀
 </p>
 
 <p align="center" style="color:#4ADE80;font-style:italic;">
-  Keep solving. Keep learning. Keep building.
+  EAT - SLEEP - CODE - REPEAT.!
 </p>
