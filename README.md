@@ -12,7 +12,7 @@ A passionate **Frontend Developer** from Bangladesh 🚀
 <h2 align="center" style="color:#007ACC;">🎨 GitHub Contribution Highlights</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noman-Miyazi&theme=react&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noman-Miyazi&theme=react&hide_border=true&area=true&color=00ff00&line=00cc00&point=00ff00&area_color=00cc00" />
 </p>
 
 
