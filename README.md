@@ -6,9 +6,7 @@ A passionate **Frontend Developer** from Bangladesh 🚀
 
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;Competitive+Programmer;AI+Explorer;Problem+Solver+🚀" alt="Typing SVG" />
-</p>
+
 
 <h2 align="center" style="color:#007ACC;">🎨 GitHub Contribution Highlights</h2>
 
