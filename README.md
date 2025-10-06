@@ -11,7 +11,7 @@ A passionate **Frontend Developer** from Bangladesh 🚀
 
  <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&weight=700&duration=3000&color=e85d04&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;Responsive+Desginer;Modern+Frameworks;AI+Explorer+🚀" alt="Typing SVG" />
-</p>
+</p><br>
 
 
 
