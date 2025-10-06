@@ -5,38 +5,7 @@ A passionate **Frontend Developer** from Bangladesh 🚀
 
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <style>
-    body {
-      background: black;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      font-family: "Orbitron", sans-serif;
-      color: #00ffff;
-      text-align: center;
-      font-size: 30px;
-      animation: glow 2s ease-in-out infinite alternate;
-    }
-    @keyframes glow {
-      from { text-shadow: 0 0 5px #00ffff, 0 0 10px #00ffff; }
-      to { text-shadow: 0 0 20px #ff00ff, 0 0 40px #ff00ff; }
-    }
-  </style>
-</head>
-<body>
-  <div>
-    <div>Frontend Developer</div>
-    <div>Competitive Programmer</div>
-    <div>AI Explorer</div>
-    <div>Problem Solver 🚀</div>
-  </div>
-</body>
-</html>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;Competitive+Programmer;AI+Explorer;Problem+Solver+🚀" alt="Typing SVG" /> </p>
 
 
 
