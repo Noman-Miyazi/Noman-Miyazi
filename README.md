@@ -1,6 +1,6 @@
 # Hello, I'm Noman 👋  
 A passionate **Frontend Developer** from Bangladesh 🚀  
-🌱 Currently learning **CSS & Figma**  
+🌱 Currently learning **Taliwind & Bootstrap**  
 💡 I love solving problems and building creative projects
 
 
